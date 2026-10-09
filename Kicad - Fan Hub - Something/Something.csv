@@ -1,0 +1,17 @@
+"Id";"Oznaczenie";"Footprint";"Liczba";"Oznaczenie";"Dostawca i numer artykułu";
+1;"A1";"raspberry_pi_pico_THT";1;"Raspberry_Pi_Pico_THT";;;
+2;"C1, C6, C9";"C_Disc_D5.0mm_W2.5mm_P2.50mm";3;"0.1uF";;;
+3;"C2, C5, C8";"C_Disc_D5.0mm_W2.5mm_P2.50mm";3;"1uF";;;
+4;"C3, C4, C7";"C_Disc_D5.0mm_W2.5mm_P2.50mm";3;"10uF";;;
+5;"D1, D6";"D_DO-41_SOD81_P7.62mm_Horizontal";2;"1N5818";;;
+6;"D2, D3, D4, D5";"D_DO-35_SOD27_P7.62mm_Horizontal";4;"1N4148";;;
+7;"J1";"BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal";1;"Barrel_Jack";;;
+8;"L1";"L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1";1;"100uH";;;
+9;"M1, M2, M3, M4";"FanPinHeader_1x04_P2.54mm_Vertical";4;"Fan_4pin";;;
+10;"R1, R2, R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"100k";;;
+11;"R4, R5, R6, R7, R8, R9";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";6;"10k";;;
+12;"SW5, SW6, SW7, SW8";"RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Sxxxx";4;"RotaryEncoder_Switch";;;
+13;"U1";"DIP-8_W7.62mm";1;"ADP1108AN-12";;;
+14;"U2";"Converter_DCDC_TRACO_TSR-1_THT";1;"TSR_1-24150";;;
+15;"U3";"ER_OLEDM0.91_1x-I2C";1;"ER_OLEDM0.91_1x-I2C";;;
+16;"U4";"TO-92_Inline";1;"LM35-LP";;;
